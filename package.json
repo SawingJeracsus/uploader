@@ -1,0 +1,18 @@
+{
+  "name": "fe-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/firebase": "^3.2.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "firebase": "^8.2.5"
+  }
+}
